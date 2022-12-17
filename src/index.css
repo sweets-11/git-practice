@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Noto+Serif+NP+Hmong:wght@500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(232, 243, 255);
+}
+
+.container-header {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  justify-content: center;
+}
+
+
+.headd {
+  font-family: 'Noto Serif NP Hmong', serif;
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+
+.card {
+  width: 18rem
+}
+
+.card-container {
+  font-family: 'Inconsolata', monospace;
+  font-weight: bolder;
+  justify-content: center;
+  display: flex;
+  margin-top: 15vh;
+}
+
+.mx {
+
+  margin: 0 80px;
+}
